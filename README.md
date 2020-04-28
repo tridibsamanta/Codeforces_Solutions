@@ -8,4 +8,4 @@
 
 :heavy_check_mark: Filenames are of the format - *ID_ProblemName.extension* 
 
-***Contributed with :blue_heart: by Tridib***
+***Contributed with :blue_heart: by Tridib.***
