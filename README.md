@@ -2,7 +2,7 @@
 
 ![CODEFORCES](https://assets.codeforces.com/users/kguseva/comments/cf.png)
 
-***My solution to some problems listed on Codeforces.***
+***My solution to some problems listed on Codeforces***
 
 :link: Find the problems here - https://codeforces.com/problemset
 
